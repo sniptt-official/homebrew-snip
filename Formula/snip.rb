@@ -6,6 +6,6 @@ class Snip < Formula
   version "0.0.35"
 
   def install
-    bin.install "snip"
+    bin.install "sniptt-macos" => "snip"
   end
 end
