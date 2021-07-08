@@ -1,9 +1,9 @@
 class Snip < Formula
   desc "🔐 The Secret Manager that developers love!"
   homepage "https://github.com/sniptt-official/snip-cli"
-  url "https://github.com/sniptt-official/snip-cli/releases/download/v0.0.49/snip-macos-x64.tar.gz"
-  sha256 "3b4c5ec013b9b08b065d41bc8d0d3e3ea1c032b3db6b8717cb9246dbfe0318da"
-  version "0.0.49"
+  url "https://github.com/sniptt-official/snip-cli/releases/download/v0.0.50/snip-macos-x64.tar.gz"
+  sha256 "2e42a770ce571a6557dd31274e1771806d3b1c9a9fc245a22c5ca8b04cb55134"
+  version "0.0.50"
 
   def install
     # bin.install "sniptt-macos" => "snip"
